@@ -11,7 +11,7 @@ This portfolio brings together my projects, technical skills, education, and the
 ## 🌐 Portfolio
 
 **Live Portfolio:**
-`https://jkarthikraj2007.github.io/`
+[https://jkarthikraj2007.github.io/](https://jkarthikraj2007.github.io/)
 
 ## 👨‍💻 About Me
 
